@@ -3,6 +3,7 @@
 ## Authentication and Authorization Type
 
 It supports implicit flow and client credentials.
+
 Application supports:
   - oAuth2 Server supports implicit flow (login in and get JSessionID to access token endpoint)
   - Authentication with client credentials (If you have valid SessionID, you can get accessToken and refreshToken).

@@ -3,6 +3,7 @@
 ## Authentication and Authorization Type
 
 It supports implicit flow and client credentials.
+Actually it is a Hybrid Flow.
 
 Application supports:
   - oAuth2 Server supports implicit flow (login in and get JSessionID to access token endpoint)

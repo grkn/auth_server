@@ -38,11 +38,8 @@ Also secret key is generated in runtime when you restart your application so tok
 ## Application specification
 
 - Springboot 3.2.3 is used as latest spring boot version
-- 
 - Java 21 is used for implementation
-- 
 - Maven is used for dependecy management.
-- 
 - Spring authorization server is used for endpoints and intercepted request in authentication manager class.
 
 ## Endpoints
